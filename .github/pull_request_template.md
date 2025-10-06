@@ -2,9 +2,8 @@
 
 Please choose one of the following templates by clicking the link below 👇
 
-[Frontend](.github/PULL_REQUEST_TEMPLATE/frontend.md)
-[Backend](.github/PULL_REQUEST_TEMPLATE/backend.md)
-
+[Frontend](PULL_REQUEST_TEMPLATE/frontend.md)
+[Backend](PULL_REQUEST_TEMPLATE/backend.md)
 
 ---
 
